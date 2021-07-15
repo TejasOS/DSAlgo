@@ -1,0 +1,10 @@
+Array:
+  Continous in memory
+  Access (by index) is o(1)
+  Insert is o(n)
+
+Linked List:  
+  Not continous in memory
+  Each element has pointer to next
+  Access (by index) is o(n)
+  Insert is o(1)
