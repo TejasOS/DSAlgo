@@ -1,0 +1,5 @@
+Traveling Salesman Problem:
+  O(n!) runtime algorithm
+  Salesman wants to visit n cities in shortest distance, so he 
+  looks at all the possible routes and adds the distance up.
+  This is n! possible ways
